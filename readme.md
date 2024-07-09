@@ -1,1 +1,1 @@
-This is my first webpage which would showw information about me and my portfolio.
+This is my first webpage which would show information about me and my portfolio.
